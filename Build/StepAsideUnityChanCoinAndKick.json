@@ -1,0 +1,11 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "StepAsideUnityChanCoinAndKick.data.unityweb",
+"asmCodeUrl": "StepAsideUnityChanCoinAndKick.asm.code.unityweb",
+"asmMemoryUrl": "StepAsideUnityChanCoinAndKick.asm.memory.unityweb",
+"asmFrameworkUrl": "StepAsideUnityChanCoinAndKick.asm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
